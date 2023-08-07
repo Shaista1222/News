@@ -1,0 +1,30 @@
+.mystyle {
+    margin-top: 50px;
+    list-style: none;
+    justify-content: center;
+    justify-content: space-between;
+    display: flex;
+    width: 70%;
+}
+
+li a {
+
+    border-radius: 100px;
+    border: 2px solid rgb(231, 229, 229);
+    color: black;
+    padding: 8px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 13px;
+    width: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mystyle a:hover {
+    background: rgb(224, 18, 18);
+    border-radius: 100px;
+    border: 2px solid rgb(224, 18, 18);
+    color: aliceblue;
+}
